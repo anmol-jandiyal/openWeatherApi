@@ -1,0 +1,1 @@
+.weather-card{background-color:#ffebcd;width:fit-content;margin:auto;padding:40px;border-radius:20px;border:black 1px solid}.weather-card *{text-align:center}.weather-card .temperature{color:#006400}.weather-card .weather-description{color:#0e419f}.weather-card .other-info{display:flex;gap:30px}*{padding:0;margin:0}.app{background-color:#84b7b7;height:100vh}
